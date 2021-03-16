@@ -7,6 +7,6 @@ __Dataset__
 
 
 __Model__
-- .ipynb
+- eda-and-graph-nn-baseline-modeling.ipynb
 
 This model contains material related to [EDA and Graph NN baseline modeling](https://www.kaggle.com/corochann/eda-and-graph-nn-baseline-modeling/notebook)
